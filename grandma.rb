@@ -12,9 +12,9 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(phrase)
-if phrase== "I LOVE YOU GRANDMA!"
+if phrase== "I LOVE YOU GRANDMA!".upcase
   return "I LOVE YOU TOO PUMPKIN!"
-elsif phrase== "i love you grandma!".upcase
+elsif phrase== "i love you grandma!"
   return "NO, NOT SINCE 1938!"
 else "i love you grandma!".capitalize
   return "HUH?! SPEAK UP, SONNY!"
