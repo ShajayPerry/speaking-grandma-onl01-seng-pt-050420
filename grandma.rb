@@ -14,7 +14,7 @@
 def speak_to_grandma(phrase)
 if phrase== "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
-elsif phrase== "i love you grandma!".capitalize
+else == "i love you grandma!".capitalize
   return "HUH?! SPEAK UP, SONNY!"
 end 
 end 
