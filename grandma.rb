@@ -20,8 +20,7 @@ else
   return "HUH?! SPEAK UP, SONNY!"
 end 
 end 
-# phrase= WHAT DID YOU EAT TODAY?
-# phr
+
 #phrase= Hello Im 
 
 speak_to_grandma
