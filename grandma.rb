@@ -20,7 +20,3 @@ else
   return "HUH?! SPEAK UP, SONNY!"
 end 
 end 
-
-#phrase= Hello Im 
-
-speak_to_grandma
