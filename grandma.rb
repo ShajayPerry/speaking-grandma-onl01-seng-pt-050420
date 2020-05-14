@@ -21,4 +21,7 @@ else
 end 
 end 
 # phrase= WHAT DID YOU EAT TODAY?
-# phrase= Hi!
+# phr
+#phrase= Hello Im 
+
+speak_to_grandma
